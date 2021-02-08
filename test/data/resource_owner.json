@@ -1,0 +1,26 @@
+{
+   "admin_office_ids": [
+      "4"
+    ], 
+    "company_id": "3", 
+    "country": "us", 
+    "do_not_disturb": false, 
+    "emails": [
+      "mocky@fuzz-ball.com"
+    ], 
+    "first_name": "Mocky", 
+    "id": "1000", 
+    "image_url": "https://dialpad.example.com/avatar/user/ag5kZXZ-dWJlci12b2ljZXISCxILVXNlclByb2ZpbGUY6AcM.png?version=caaf49b4dbcec738c3b8fd1189746b89", 
+    "is_admin": false, 
+    "is_available": true, 
+    "is_on_duty": false, 
+    "is_online": false, 
+    "is_super_admin": false, 
+    "language": "en", 
+    "last_name": "Mockson", 
+    "license": "talk", 
+    "muted": false, 
+    "office_id": "4", 
+    "state": "active", 
+    "timezone": "US/Pacific"      
+}
