@@ -18,7 +18,7 @@
         "dialpad"
     ],
     "require": {
-        "league/oauth2-client": "2.5.0",
+        "league/oauth2-client": "^2.7",
         "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
