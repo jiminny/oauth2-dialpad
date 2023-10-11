@@ -18,8 +18,8 @@
         "dialpad"
     ],
     "require": {
-        "league/oauth2-client": "2.5.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "league/oauth2-client": "^2.7",
+        "guzzlehttp/guzzle": "^7.8"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
